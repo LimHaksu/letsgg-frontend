@@ -1,9 +1,11 @@
 # 💰 Welcome to Lets 경기 💰
 
+## https://letsgg.site
+
  - 모바일에서 실행
 
 
-<div style=margin:0 auto;"><img src="/uploads/44924d8cbab5a1618f1a8407ecaac3ac/치킨.gif" width="30%" height="30%" ><img src="/uploads/0a15851e779b4d57df904a6251afada1/병원.gif" width="30%" height="30%"></div>
+<div style=margin:0 auto;"><img src="https://github.com/LimHaksu/letsgg-frontend/blob/master/images/%EC%B9%98%ED%82%A8.gif?raw=true" width="30%" height="30%" ><img src="https://github.com/LimHaksu/letsgg-frontend/blob/master/images/%EB%B3%91%EC%9B%90.gif?raw=true" width="30%" height="30%"></div>
 
 
 
