@@ -1,6 +1,6 @@
 # 💰 Welcome to Lets 경기 💰
 
-## https://letsgg.site
+## <a href="https://letsgg.site" target="_blank">https://letsgg.site</a>
 
  - 모바일에서 실행
 
